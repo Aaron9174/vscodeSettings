@@ -1,0 +1,23 @@
+{
+    "http.proxyStrictSSL": false,
+    "http.proxySupport": "off",
+    "json.schemas": [
+
+        {
+            "fileMatch": [
+                "/tsconfig*"
+            ],
+            "url": "file://home/labuser/schemas/tsconfig-schema.json"
+        }
+    ],
+    "workbench.colorTheme": "2077",
+    "window.zoomLevel": 1,
+    "cmake.configureOnOpen": true,
+    "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.formatOnSave": true,
+    "git.openRepositoryInParentFolders": "always",
+    "[proto3]": {
+        "editor.defaultFormatter": "zxh404.vscode-proto3"
+    }
+}
